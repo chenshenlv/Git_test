@@ -16,6 +16,7 @@
 	{
 		"path":"./mesh.obj",
 		"impedance":"material.mtl"
+		"work"
 	}
 
 }
