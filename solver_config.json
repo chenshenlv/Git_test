@@ -4,7 +4,7 @@
 		"type":"mono_pole",//point, mono_pole, plan_wave//
 		"strength": 1,
 		"location": [4.5,4.5,4.6,4.6],
-		"local": [1,2,3],
+		"local": [1],
 		"work":[1],
 		"evaluation point": [
 			[1,2,3],[2,4,2]
